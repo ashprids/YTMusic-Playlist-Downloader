@@ -13,7 +13,7 @@ This page will contain your Client ID and Secret.
 ### Python (if running from source)
 Ensure the latest version of Python 3 is installed. To install required libraries, clone the repository and run the following command within its directory:
 ```sh
-git clone https://github.com/ashprids/YouTube-Music-Playlist-Downloader.git
+git clone https://github.com/ashprids/YTMusic-Playlist-Downloader.git
 pip install -r requirements.txt
 ```
 ### FFmpeg
