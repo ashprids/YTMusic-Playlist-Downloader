@@ -1,0 +1,13 @@
+[Desktop Entry]
+Name=YTMusic Playlist Downloader
+GenericName=YouTube Music Playlist Downloader
+Comment=Download YouTube Music Playlists with full metadata from Spotify
+Keywords=downloading;download;youtube;ytmusic;metadata;spotify;fridg3;playlist;frdg;fridge
+Exec=ytmusic-playlist-downloader
+Terminal=true
+TryExec=ytmusic-playlist-downloader
+Type=Application
+Categories=Network;Terminal;Internet;Music
+Icon=/usr/share/icons/hicolor/128x128/apps/ytmusic-playlist-downloader.png
+
+
